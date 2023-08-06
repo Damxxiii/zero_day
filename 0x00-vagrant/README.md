@@ -1,1 +1,2 @@
-My first README
+#!/bin/bash
+echo '0-hello_ubuntu'
