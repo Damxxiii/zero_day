@@ -1,2 +1,1 @@
-#!/bin/bash
-echo '***This is my first repository as a fullstack engineer***'
+My first README
